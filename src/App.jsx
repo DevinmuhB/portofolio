@@ -483,7 +483,8 @@ export default function Portfolio() {
     { title: 'VynStore Top-Up Game', description: 'Website untuk Top-Up berbagai macam game dengan fitur Mini Game Space Shooter, List Game Populer, dan Pembayaran', link: 'https://github.com/DevinmuhB/Website-Top-Up-Game', image: '/assets/projects/topup.png' },
     { title: 'JobHub - Penyedia Lowongan Kerja', description: 'Website Job Board untuk mencari pekerjaan atau mencari calon pelamar menggunakan HTML, CSS dan Javascript', link: 'https://github.com/DevinmuhB/Website-Job-Board-Sederhana', image: '/assets/projects/jobboard.png' },
     { title: 'Chatbot AI Job Seeker & Game Wiki', description: 'Platform Chatbot untuk mencari informasi pekerjaan serta informasi game menggunakan HTML, CSS, JavaScript dan Integrasi Gemini API', link: 'https://github.com/DevinmuhB/Website-Job-GameAI', image: '/assets/projects/chatbotjob.png' },
-    { title: 'DungeonRPG Rush', description: 'Game RPG Turn-Based berbasis website dengan Berbagai Macam Fitur menggunakan Vite.js, React, Tailwindcss', link: '#', image: '/assets/projects/rpg.jpeg' }
+    { title: 'DungeonRPG Rush', description: 'Game RPG Turn-Based berbasis website dengan Berbagai Macam Fitur menggunakan Vite.js, React, Tailwindcss', link: 'https://github.com/DevinmuhB/Game-RPG-Turn-Based', image: '/assets/projects/rpg.jpeg' },
+    { title: 'Risk Management Dashboard', description: 'Dashboard untuk manajemen risiko berbasis web dengan fitur visualisasi data menggunakan Laravel dan Chart.js', link: 'https://github.com/DevinmuhB/RiskMGTDashboard', image: '/assets/projects/riskdash.png' }
   ];
 
   const certificates = [
